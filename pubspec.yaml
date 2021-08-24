@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  soundpool: ^2.1.0
+  soundpool: ^1.1.1
 
 dev_dependencies:
   flutter_test:
